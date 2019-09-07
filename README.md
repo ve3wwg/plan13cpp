@@ -38,4 +38,4 @@ To test:
 and compare the ISS Latitude and Longitude from the JSON to the printed
 output.
 
-My own changes are public domain.
+My own changes are public domain. Fork, modify and pass it on.
