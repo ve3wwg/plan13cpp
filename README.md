@@ -11,7 +11,7 @@ The C++ code was downloaded from:
 
     https://github.com/BackupGGCode/qrptracker.git
 
-There was no license file found at the above githup repo.
+There was no license file found at the above repo.
 
 I couldn't determine who transcribed it to Arduino (C++). I have
 modified it to be C++/Linux friendly, removing the Arduino
