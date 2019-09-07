@@ -11,6 +11,8 @@ The C++ code was downloaded from:
 
     https://github.com/BackupGGCode/qrptracker.git
 
+There was no license file found at the above githup repo.
+
 I couldn't determine who transcribed it to Arduino (C++). I have
 modified it to be more C++/Linux friendly, removing the Arduino
 references.
@@ -35,7 +37,5 @@ To test:
 
 and compare the ISS Latitude and Longitude from the JSON to the printed
 output.
-
-There was no license file found at the above githup repo.
 
 My own changes are public domain.
