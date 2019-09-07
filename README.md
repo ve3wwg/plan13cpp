@@ -12,7 +12,7 @@ The C++ code was downloaded from:
     https://github.com/BackupGGCode/qrptracker.git
 
 I couldn't determine who transcribed it to Arduino (C++). I have
-modified it to be more C++/Linux friendly, removing the Arduino
+modified it to be C++/Linux friendly, removing the Arduino
 references.
 
 Modify main.cpp to reflect your own location and recent keplerian
